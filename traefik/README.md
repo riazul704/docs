@@ -19,6 +19,8 @@ WARNING:
 -	[`v1.4.4`, `1.4.4`, `v1.4`, `1.4`, `roquefort`, `latest` (*scratch/amd64/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/ab1c388b991daeced863419d65c04528a4166010/scratch/amd64/Dockerfile)
 -	[`v1.4.4-alpine`, `1.4.4-alpine`, `v1.4-alpine`, `1.4-alpine`, `roquefort-alpine`, `alpine` (*alpine/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/ab1c388b991daeced863419d65c04528a4166010/alpine/Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/traefik/badge/icon) (`amd64/traefik` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/traefik/)
+
 # Quick reference
 
 -	**Where to get help**:  
